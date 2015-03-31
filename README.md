@@ -61,7 +61,7 @@
   * if
   * each
 
-```rb:main.rb
+```rb
 a = 1
 a = a + 3
 
@@ -118,7 +118,7 @@ a.each { |x| p x }
 
 ### JavaScriptを覚えよう
 
-```js:main.js
+```js
 window.onload = function() {
   var hello = 'Hello world!';
   console.log(hello);
@@ -138,9 +138,11 @@ window.onload = function() {
 
 [Download jQuery | jQuery](http://jquery.com/download/)
 
-    <script src="/js/jquery.js"></script>
+```html
+<script src="/js/jquery.js"></script>
+```
 
-```js:main.js
+```js
 $(function() {
   // ここに処理を書く
 });
