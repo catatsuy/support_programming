@@ -34,6 +34,14 @@
     echo .DS_Store >> $HOME/.gitignore
     echo Thumbs.db >> $HOME/.gitignore
 
+名前・メールアドレス
+
+    git config --global user.name "catatsuy"
+    git config --global user.email "catatsuy@catatsuy.org"
+
+名前とメールアドレスは GitHub に登録したものを使ってください
+
+
 #### Git の覚えて欲しいコマンド
 
   * `git clone`
