@@ -5,6 +5,11 @@
   * [catatsuy/sinatra_keijiban](https://github.com/catatsuy/sinatra_keijiban)
   * [catatsuy/sinatra_simple](https://github.com/catatsuy/sinatra_simple)
 
+## 第1章 Web サイト作りの基本のキ
+
+  * [index.html](https://github.com/catatsuy/support_programming/blob/master/index.html)
+  * [style.css](https://github.com/catatsuy/support_programming/blob/master/style.css)
+
 ## 第2章 Macを使った開発環境構築
 
 ### ターミナルの開き方
