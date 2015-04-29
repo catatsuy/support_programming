@@ -65,6 +65,17 @@
   * `git pull`
   * `git push`
 
+#### Ruby から SQLite を操作する
+
+本書の例を表示するための `INSERT` 文
+
+```sql
+INSERT INTO books (title, author, price) VALUES ('武器としての交渉思考', '瀧本哲史', 860);
+INSERT INTO books (title, author, price) VALUES ('キャバ嬢の社会学', '北条かや', 820);
+INSERT INTO books (title, author, price) VALUES ('２０歳の自分に受けさせたい文章講義', '古賀史健', 840);
+```
+
+
 ## 第5章 実際にコードを書いて画像投稿掲示板を作ろう
 
 ### GitHubでリポジトリをForkする
