@@ -5,6 +5,14 @@
   * [catatsuy/sinatra_keijiban](https://github.com/catatsuy/sinatra_keijiban)
   * [catatsuy/sinatra_simple](https://github.com/catatsuy/sinatra_simple)
 
+## 正誤表
+
+| 正誤箇所 | 誤 | 正 |
+| :------------ | :--------------- | :----- |
+| 88ページ      | `cd sinatra_simple_template` でこのフォルダに入って | `cd sinatra_simple` でこのフォルダに入って |
+| 134ページ下   | `js:main.js` | （必要なし） |
+
+
 ## 第1章 Web サイト作りの基本のキ
 
   * [index.html](https://github.com/catatsuy/support_programming/blob/master/index.html)
