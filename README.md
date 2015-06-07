@@ -182,11 +182,11 @@ $(function() {
 
 ## sinatra-contribをインストールしてサーバーが起動しなくなった方
 
-2015/3/24 に sinatra のバージョンアップがあり，それに 2015/04/16 現在 sinatra-contrib が追従していません
-
-以下の手順で回避できます
+2015/3/24 に sinatra のバージョンアップがあり，それに 2015/06/06 まで sinatra-contrib が追従していませんでした。2015/3/24 から 2015/06/06 までに `gem install sinatra-contrib` をした方は以下の手順を行う必要があります。
 
   1. `sudo gem uninstall tilt` とターミナルに入力
   2. `Select gem to uninstall:` と出るので `tilt-2.0.1` の左に書かれている数字を入力して Enter を押す
 
 ![uninstall tilt](/uninstall_tilt.png)
+
+2015/06/07 現在この手順は必要ありません。
