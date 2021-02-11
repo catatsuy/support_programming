@@ -180,6 +180,8 @@ $(function() {
 });
 ```
 
+# 補足
+
 ## Visual Studio Codeを使う
 
 2021/02/11現在、Sublime TextよりもVisual Studio Codeの方がメジャーなエディタだと思います。簡単に使い方を紹介します。
